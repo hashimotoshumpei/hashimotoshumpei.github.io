@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diaries on </title>
+    <link>https://example.com/diary/</link>
+    <description>Recent content in Diaries on </description>
+    <generator>Hugo</generator>
+    <language>jp</language>
+    <lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/diary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>初めての日記</title>
+      <link>https://example.com/diary/test/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/diary/test/</guid>
+      <description>This is the text next to the image. You can add a description or any content here.</description>
+    </item>
+  </channel>
+</rss>

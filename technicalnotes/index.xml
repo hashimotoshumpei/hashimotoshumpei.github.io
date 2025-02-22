@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technicalnotes on </title>
+    <link>https://example.com/technicalnotes/</link>
+    <description>Recent content in Technicalnotes on </description>
+    <generator>Hugo</generator>
+    <language>jp</language>
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/technicalnotes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ウェブサイトの作成 ②</title>
+      <link>https://example.com/technicalnotes/20250222/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/technicalnotes/20250222/</guid>
+      <description>今日も引き続きHugo のカスタマイズを進めています。&#xA;どこかの段階で公開しないとと思うが、細かいこだわりが次々と出てキリがないなあ。</description>
+    </item>
+    <item>
+      <title>ウェブサイトの作成 ①</title>
+      <link>https://example.com/technicalnotes/20250219/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/technicalnotes/20250219/</guid>
+      <description>今日も引き続きHugo のカスタマイズを進めています。&#xA;ChatGPTに相談しながら、何とかイメージがカタチになってきた感じ。&#xA;今日のハイライトは、思い描いていたGalleryタブの中身を実現できたこと。</description>
+    </item>
+  </channel>
+</rss>
