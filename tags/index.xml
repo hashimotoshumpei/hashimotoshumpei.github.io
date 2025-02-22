@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://example.com/tags/</link>
+    <link>https://hashimotoshumpei.github.io/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
     <language>jp</language>
     <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hashimotoshumpei.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Index</title>
-      <link>https://example.com/tags/index/</link>
+      <link>https://hashimotoshumpei.github.io/tags/index/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/index/</guid>
+      <guid>https://hashimotoshumpei.github.io/tags/index/</guid>
       <description></description>
     </item>
     <item>
       <title>Theme</title>
-      <link>https://example.com/tags/theme/</link>
+      <link>https://hashimotoshumpei.github.io/tags/theme/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/theme/</guid>
+      <guid>https://hashimotoshumpei.github.io/tags/theme/</guid>
       <description></description>
     </item>
     <item>
       <title>Css</title>
-      <link>https://example.com/tags/css/</link>
+      <link>https://hashimotoshumpei.github.io/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/css/</guid>
+      <guid>https://hashimotoshumpei.github.io/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>https://example.com/tags/html/</link>
+      <link>https://hashimotoshumpei.github.io/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/html/</guid>
+      <guid>https://hashimotoshumpei.github.io/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>https://example.com/tags/markdown/</link>
+      <link>https://hashimotoshumpei.github.io/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/markdown/</guid>
+      <guid>https://hashimotoshumpei.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>https://example.com/tags/privacy/</link>
+      <link>https://hashimotoshumpei.github.io/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/privacy/</guid>
+      <guid>https://hashimotoshumpei.github.io/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>https://example.com/tags/shortcodes/</link>
+      <link>https://hashimotoshumpei.github.io/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/shortcodes/</guid>
+      <guid>https://hashimotoshumpei.github.io/tags/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>Text</title>
-      <link>https://example.com/tags/text/</link>
+      <link>https://hashimotoshumpei.github.io/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/text/</guid>
+      <guid>https://hashimotoshumpei.github.io/tags/text/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji</title>
-      <link>https://example.com/tags/emoji/</link>
+      <link>https://hashimotoshumpei.github.io/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/emoji/</guid>
+      <guid>https://hashimotoshumpei.github.io/tags/emoji/</guid>
       <description></description>
     </item>
     <item>
       <title>Publication</title>
-      <link>https://example.com/tags/publication/</link>
+      <link>https://hashimotoshumpei.github.io/tags/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/publication/</guid>
+      <guid>https://hashimotoshumpei.github.io/tags/publication/</guid>
       <description></description>
     </item>
   </channel>
