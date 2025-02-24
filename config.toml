@@ -82,7 +82,6 @@ url = "/gallery/"
 category = "categories"
 tag = "tags"
 series = "series"
-publication = "publication"
 
 [privacy]
 
