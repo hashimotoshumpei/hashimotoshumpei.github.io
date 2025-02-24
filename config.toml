@@ -13,7 +13,7 @@ ignoreErrors = ["error-remote-getjson"]
 [params]
 carouselHomepage = false
 title = ""
-description = ""
+description = "Official Site"
 # gravatar = "soho@example.com"
 images = ["images/my_profile.png"]
 profilePicture = "images/my_profile.png"
