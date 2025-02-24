@@ -1,0 +1,117 @@
+theme = "soho"
+baseurl = "https://hashimotoshumpei.github.io"
+
+languageCode = "jp"
+# title = ""
+DefaultContentLanguage = "jp"
+enableInlineShortcodes = true
+summarylength = 10
+enableEmoji = true
+paginate = 5
+ignoreErrors = ["error-remote-getjson"]
+
+[params]
+title = ""
+# description = "Official Site"
+# gravatar = "soho@example.com"
+images = ["images/my_profile.png"]
+profilePicture = "images/my_profile.png"
+copyright = "Shumpei Hashimoto"
+license = "CC BY-SA 4.0"
+licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+builtWith = true
+mainSections = ["home"]
+
+## Set custom theme color.
+themeColor = "#48A7C9"
+
+  [[params.socialIcons]]
+  icon = "fa-github"
+  title = "GitHub"
+  url = "https://github.com/hashimotoshumpei"
+
+  [[params.socialIcons]]
+  icon = "fa-twitter"
+  title = "Twitter"
+  url = "https://x.com/ShumpeiH"
+
+[menu]
+
+ [[menu.main]]
+name = "Profile"
+identifier = "about"
+weight = 1
+url = "/about/"
+
+[[menu.main]]
+name = "Research"
+weight = 2
+identifier = "research"
+url = "/research/"
+
+[[menu.main]]
+name = "Publication"
+weight = 3
+identifier = "publication"
+url = "/publication/"
+
+[[menu.main]]
+name = "Diary"
+weight = 4
+identifier = "diary"
+url = "/diary/"
+
+[[menu.main]]
+name = "Technical Notes"
+weight = 5
+identifier = "technical notes"
+url = "/technicalnotes/"
+
+
+[[menu.main]]
+name = "Gallery"
+weight = 8
+identifier = "gallery"
+url = "/gallery/"
+
+
+
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+publication = "publication"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      # needed to render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+      unsafe = true
