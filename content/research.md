@@ -6,4 +6,4 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-## 脱炭素・炭素循環にコミットできる植物研究とは？
+作成中。。。
