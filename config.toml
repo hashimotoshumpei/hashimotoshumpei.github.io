@@ -51,10 +51,10 @@ identifier = "research"
 url = "/research/"
 
 [[menu.main]]
-name = "Publication"
+name = "Publications"
 weight = 3
-identifier = "publication"
-url = "/publication/"
+identifier = "publications"
+url = "/publications/"
 
 [[menu.main]]
 name = "Diary"
