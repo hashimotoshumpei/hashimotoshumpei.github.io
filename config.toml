@@ -36,9 +36,6 @@ themeColor = "#48A7C9"
   title = "Twitter"
   url = "https://x.com/ShumpeiH"
 
-  [[params.carouselHomepage]]
-  enable = false  # default is true
-
 [menu]
 
  [[menu.main]]
