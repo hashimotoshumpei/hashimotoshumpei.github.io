@@ -11,6 +11,7 @@ paginate = 5
 ignoreErrors = ["error-remote-getjson"]
 
 [params]
+carouselHomepage = false
 title = ""
 # description = "Official Site"
 # gravatar = "soho@example.com"
