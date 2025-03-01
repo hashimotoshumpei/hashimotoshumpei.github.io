@@ -10,9 +10,9 @@ author = "Hugo Authors"
 
 <div style="overflow: hidden;">
   <img src="/images/about.jpg" alt="Image" style="float: right; width: 200px; margin-right: 20px; margin-bottom: 10px;">
-  <p style="font-weight: bold; font-size: 1.5em; margin-bottom: 2px; line-height: 1.2;">橋本　舜平</p>
+  <p style="font-weight: bold; font-size: 1.5em; margin-bottom: 2px; line-height: 1.2;">橋本 舜平</p>
   <p style="margin-top: 0; margin-bottom: 38px; line-height: 1.2;">Shumpei HASHIMOTO , Ph.D.</p>
-  <p style="margin-bottom: 2px;">東京大学　大学院生命農学研究科　育種学研究室</p>
+  <p style="margin-bottom: 2px;">東京大学 大学院農学生命科学研究科 育種学研究室</p>
   <p style="margin-top: 0;">日本学術振興会 特別研究員（PD）</p>
 </div>
 
